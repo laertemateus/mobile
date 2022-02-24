@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AulaMobile1</string>
+    <string name="informe1">Informe o primeiro número</string>
+    <string name="informe2">Informe o segundo número</string>
+    <string name="calcular">Calcular</string>
+</resources>
